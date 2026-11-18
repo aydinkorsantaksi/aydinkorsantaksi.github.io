@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aydinkorsantaksi.github.io/sitemap.xml
